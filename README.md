@@ -1,4 +1,4 @@
-# Selecting-Subgraph-Matching-Algorithm-via-Machine-Learning
+# Selecting Subgraph Matching Algorithm via Machine Learning
 
 ## Introduction
 Subgraph matching is one of the fundamental problems in graph
