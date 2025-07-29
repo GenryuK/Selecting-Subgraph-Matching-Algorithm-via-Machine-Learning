@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g -Wall -march=native -pthread -I/usr/local/opt/libomp/include -lstdc++fs -rdynamic CMakeFiles/EdgeListConverter.out.dir/EdgeListToCSR.cpp.o -o EdgeListConverter.out 
